@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StagedRelease.Sample.Extensions/StagedRelease.Sample.Extensions.csproj" />
+    <Project Path="src/StagedRelease.Sample/StagedRelease.Sample.csproj" />
+  </Folder>
+</Solution>

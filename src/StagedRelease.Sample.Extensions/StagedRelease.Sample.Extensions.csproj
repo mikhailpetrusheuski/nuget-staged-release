@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>StagedRelease.Sample.Extensions</PackageId>
+    <Description>Companion package that must ship in the same staged group as StagedRelease.Sample.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StagedRelease.Sample\StagedRelease.Sample.csproj" />
+  </ItemGroup>
+</Project>

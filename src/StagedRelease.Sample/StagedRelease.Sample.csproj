@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>StagedRelease.Sample</PackageId>
+    <Description>Sample core package for a staged NuGet.org release.</Description>
+  </PropertyGroup>
+</Project>
