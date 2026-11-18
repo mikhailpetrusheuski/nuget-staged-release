@@ -6,6 +6,8 @@ A small .NET sample that stages a two-package release on NuGet.org instead of pu
 [![.NET 11 SDK](https://img.shields.io/badge/.NET_SDK-11-512BD4)](https://dotnet.microsoft.com/)
 [![Stars](https://img.shields.io/github/stars/mikhailpetrusheuski/nuget-staged-release?style=social)](https://github.com/mikhailpetrusheuski/nuget-staged-release/stargazers)
 
+Read the write-up: [NuGet.org Just Added a Human Release Gate for .NET Packages](https://medium.com/@mikhail.petrusheuski/nuget-org-just-added-a-human-release-gate-for-net-packages-f07f7c7cc9be).
+
 ## What is here
 
 | Path | Purpose |
